@@ -1,0 +1,25 @@
+.user_img{
+    display: inline-flex;
+    height:20rem;
+    width:17rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+    border:.7rem solid var(--yellow);
+}
+.table_text{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+    padding-left: 2em;
+    padding-right: 2em;;
+}
+.h_text{
+    color: aqua;
+}
+.border{
+    padding-left: 8em;
+    padding-right: 4em;
+    padding-bottom: 3em;
+    padding-top: 3em;
+}
